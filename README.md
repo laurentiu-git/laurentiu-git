@@ -1,5 +1,5 @@
 ### Hi there, I'm Laurentiu or Laur  👋
-
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 ## I'm an Engineer and Developer!
@@ -31,7 +31,7 @@ Flutters Mobile App was developed using Android Studio IDE and Java, other tools
 
  <h4> -When one user sends a post or message a notification will be triggered ( even if the app it's killed) to the ones that are receiving the content.</h4>
 
- <h4> -All images are compressed. </h4>
+ <h4> -All images are compressed.  </h4>
 
  <h4> -Users can delete their messages only when the status of the message is not seen, the message will be remove both locally and from firebase database.</h4>
 
