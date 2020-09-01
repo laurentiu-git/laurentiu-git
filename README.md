@@ -1,5 +1,5 @@
 ### Hi there, I'm Laurentiu or Laur  👋
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=laurentiu-git.visitor-badge)
 
 
 ## I'm an Engineer and Developer!
