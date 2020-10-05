@@ -4,7 +4,7 @@
 
 ## I'm an Engineer and Developer!
 
- I’m currently working on a new App project called [FLUTTERS][ytVideo]!
+ I’m currently working on a new App project called [FLUTTERS][ytVideo] click [here][ytVideo] for demo!
 
 ## :exclamation: About Flutters
 Flutters Mobile App was developed using Android Studio IDE and Java, other tools that have been used are the following:Firebase Realtime Database (for storing data), Firebase Cloud-Messaging (for sending notifications), Firebase Storage (for storing pictures), Appium framework (automated tests in C# using Visual Studio, [framework][framework] developed by my [colleague][githubM] ), GitHub ( version control), Visual Studio Code ( for making scripts in Node.js to clean data from firebase while running automated tests also for sending notifications), SQLite Database ( for saving users conversation on their phone right along with paths to pictures downloaded or uploaded in App), APIs ( one including filtering pictures for NFSW content, that you receive in public, private images aren't filtered) . 
@@ -51,7 +51,7 @@ Flutters Mobile App was developed using Android Studio IDE and Java, other tools
 <img align="left" alt="Java" width="40px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
 <img align="left" alt="Firebase" width="40px" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" />
 <img align="left" alt="Visual Studio" width="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
-<img align="left" alt="Appium" width="40px" src="https://antlong.com/content/images/2019/08/appium-home-1.png" />
+<img align="left" alt="Appium" width="40px" src="https://api.iconify.design/logos-appium.svg" />
 <img align="left" alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/C-Sharp.png" />
 
 
