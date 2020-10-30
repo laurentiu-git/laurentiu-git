@@ -1,4 +1,4 @@
-### Hi there, I'm Laurentiu or Laur  👋
+### Hi there, I'm Laurentiu or Laur and I am looking for a job opportunity 👋
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=laurentiu-git.visitor-badge)
 
 
